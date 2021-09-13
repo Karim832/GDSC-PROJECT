@@ -1,0 +1,28 @@
+
+ * {
+     border-radius: 8px;
+     background-color: #146a80d0;
+ }
+ .subject { border: 2px solid #bba945 ;
+ width: 700px
+margin:auto 50px
+ }
+ .xxx {
+color: #ffffff;
+background-color:#0a0909 ;
+font-weight :border ;
+font-weight:600;
+font-size: 30px;
+text-align: center;
+margin: 5px;
+padding: 5px;
+
+ }
+ .subject2 {
+     width: 200px;
+     height: 200px;
+ }
+ .subject4 img {
+display: block;
+margin: 0 auto;
+ }
